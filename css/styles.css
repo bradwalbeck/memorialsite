@@ -1,4 +1,12 @@
 
 body {
-background-color: lavender;
+background-image: url('https://cdn.wallpapersafari.com/68/35/eT3dUI.jpg');
+backdrop-filter: blur(4px);
+height: 100%;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+
+
 }
